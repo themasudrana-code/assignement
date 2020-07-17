@@ -17,7 +17,7 @@ console.log(thirdMile);
 function woodCalculator(chair, table, bed){
     var isChair= chair*1;
     var isTable= table*3;
-    var isBed= Bed*5;
+    var isBed= bed*5;
     var resulte= isChair+isTable+isBed;
     return resulte;
 }
